@@ -92,7 +92,7 @@ background-image: linear-gradient(to right top,#004b9a , #4d2266 , 70%, #a30041 
   right: 0;
   height: 100%;
   width: 100%;
-  background-image:  url("/images/Camp\ Nou.png");
+  background-image:  url("images/Camp\ Nou.png");
   opacity: 0.05;
   z-index: 2;
 }
@@ -119,7 +119,7 @@ background-image: linear-gradient(to right top,#004b9a , #4d2266 , 70%, #a30041 
   right: 0;
   height: 100%;
   width: 100%;
-  background-image:  url("/images/barcelonahistorypic.png");
+  background-image:  url("images/barcelonahistorypic.png");
   opacity: 0.05;
   z-index: 2;
   background-repeat: no-repeat;
@@ -131,7 +131,7 @@ background-size: cover;
   right: 0;
   height: 100%;
   width: 100%;
-  background-image:  url("/images/MSN.png");
+  background-image:  url("images/MSN.png");
   opacity: 0.05;
   z-index: 2;
   background-repeat: no-repeat;
@@ -143,7 +143,7 @@ background-size: cover;
   right: 0;
   height: 100%;
   width: 100%;
-  background-image:  url("/images/nowadays\ \(1\).png");
+  background-image:  url("images/nowadays\ \(1\).png");
   opacity: 0.05;
   z-index: 2;
   background-repeat: no-repeat;
