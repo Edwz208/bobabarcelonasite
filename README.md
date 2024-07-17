@@ -1,4 +1,4 @@
-# Static cite about FC Barcelona
+# Static site about FC Barcelona
 
 For Hack Club's [boba drops ](https://boba.hackclub.com/), unfortunately can't submit it 
 
